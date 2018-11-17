@@ -1,2 +1,1 @@
-# gb-frox
-Frox Docker image
+# Frox Docker image
