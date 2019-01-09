@@ -1,4 +1,4 @@
-# Frox Docker image
+# Froxlor Docker image
 
 ## How to run:
 
